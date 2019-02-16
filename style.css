@@ -87,3 +87,11 @@ body {
     color: #16C0B0;
     text-decoration: underline;
   }
+
+  #footer{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    text-align: center;
+  }

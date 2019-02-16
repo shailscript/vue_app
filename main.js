@@ -6,3 +6,10 @@ var app = new Vue({
         image: 'vmSocks-green-onWhite.jpg'
     }
 });
+
+var footer = new Vue({
+    el: '#footer',
+    data: {
+        link: 'https:\\github.com\shailshukla96'
+    }
+})
