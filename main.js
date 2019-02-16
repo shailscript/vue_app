@@ -5,7 +5,8 @@ var app = new Vue({
         description: 'We\'ll see awesome socks here, in a bit. I\'d update the description once the product arrives!',
         image: 'vmSocks-green-onWhite.jpg',
         inventory : 100,
-        onSale: true
+        onSale: true,
+        details: ["80% cotton", "breathable", "bright colors"]
     }
 });
 
