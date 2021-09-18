@@ -30,6 +30,6 @@ var app = new Vue({
 var footer = new Vue({
     el: '#footer',
     data: {
-        link: 'https:\\github.com\shailshukla96'
+        link: 'https:\\github.com\shailscript'
     }
 })
